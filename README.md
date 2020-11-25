@@ -1,3 +1,3 @@
 # Join Lightych
 
-Create new issue to join the waiting list.
+[Create new issue](https://github.com/lightych/joinus/issues/new/choose) to join the waiting list.
